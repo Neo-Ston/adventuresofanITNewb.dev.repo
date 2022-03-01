@@ -1,0 +1,7 @@
+baseURL = 'https://Neo-Ston.github.io'
+languageCode = 'en-us'
+title = 'Adventures of an IT Newb'
+theme = "m10c"
+[params]
+author = "Trenton Miller-Mitts"
+description = "This is a blog about my career and progress."
